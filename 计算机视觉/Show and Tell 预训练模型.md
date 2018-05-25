@@ -1,4 +1,0 @@
-- [Pretrained-Show-and-Tell-model by KranthiGV](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model):
-    - 基于TensorFlow官方例子的预训练模型。
-- 另一个模型: https://github.com/jazzsaxmafia/show_and_tell.tensorflow
-- https://github.com/yunjey/show-attend-and-tell

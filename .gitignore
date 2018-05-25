@@ -1,3 +1,4 @@
 datasets/
 *.tmp
 *checkpoints*
+.idea/
